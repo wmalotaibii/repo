@@ -7,7 +7,7 @@ function App() {
   return (
   
 
-     <h1> Hello New,</h1>
+     <h1> Hello New merged,</h1>
 
   )
 }
